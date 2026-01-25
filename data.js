@@ -124,7 +124,7 @@ window.KB_DATA = {
       github: "https://github.com/kawtarblcd-del",
       linkedin: "https://www.linkedin.com/in/kawtar-belcaid/",
       email: "kawtar.blcd@gmail.com",
-      cv: "./assets/cv.pdf",
+      cv: "./assets/cv_alternance.pdf",
     },
   },
 
