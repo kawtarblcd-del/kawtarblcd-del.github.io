@@ -113,11 +113,12 @@ window.KB_DATA = {
     location: "Île-de-France",
 
     heroText: {
-      fr:
-        "Étudiante en 2ᵉ année de BUT Informatique à l’Université Paris-Saclay, je recherche un stage de 12 semaines en développement web et data, du 20 avril au 10 juillet 2026. Je souhaite participer au développement et à la maintenance d’applications web et data-driven, en mobilisant mes compétences en HTML, CSS, JavaScript, PHP, SQL, Python et en conception de bases de données. Ce stage s’inscrit dans une démarche d’engagement en vue d’une alternance à partir de septembre 2026.",
-      en:
-        "Second-year Computer Science student at Université Paris-Saclay, I am looking for a 12-week internship in web and data development from April 20 to July 10, 2026. I aim to contribute to the development and maintenance of web and data-driven applications using my skills in HTML, CSS, JavaScript, PHP, SQL, Python, and database design. This internship is part of a long-term goal toward a work-study program starting in September 2026.",
-    },
+     fr:
+       "Étudiante en 2ᵉ année de BUT Informatique à l’Université Paris-Saclay, je recherche une alternance en développement web pour ma 3ᵉ année, à partir de septembre 2026, au rythme de 3 jours en entreprise et 2 jours à l’IUT. Je souhaite contribuer au développement, à la maintenance et à l’exploitation d’applications orientées données en mobilisant mes compétences en Python, SQL, conception et traitement de bases de données ainsi qu’en développement backend, tout en apportant mon sérieux, mon autonomie et mon sens de l’organisation au sein d’une équipe technique.",
+     en:
+       "As a second-year Computer Science student at Université Paris-Saclay, I am seeking a work-study position in web development for my third year starting in September 2026, with a schedule of three days in a company and two days at university. I aim to contribute to the development, maintenance, and operation of data-oriented applications by leveraging my skills in Python, SQL, database design and processing, as well as backend development, while bringing reliability, autonomy, and strong organizational skills to a technical team.",
+   },
+
 
     links: {
       github: "https://github.com/kawtarblcd-del",
